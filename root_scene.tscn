@@ -43,5 +43,3 @@ modulate = Color( 0.101961, 0.0705882, 0.12549, 1 )
 self_modulate = Color( 0.101961, 0.0823529, 0.133333, 1 )
 position = Vector2( 458.786, 447.155 )
 occluder = SubResource( 1 )
-
-[node name="bad_design_decision" type="Sprite" parent="."]
